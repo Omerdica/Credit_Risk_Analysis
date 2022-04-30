@@ -31,7 +31,7 @@ To further test our data we can intoduce Ensemble Learners. We will use Balanced
 
 ![CODE1](Images/random_forest_class.png)
 
-AdaBoost Classifier is where we start to see the difference in the imbalanced classification report. Most 
+As we look at previous algorithams and compare it to AdaBoost we can see that some of our data starts to differ from the rest. 
 
 ![CODE1](Images/easy_adaboost_class.png)
 
